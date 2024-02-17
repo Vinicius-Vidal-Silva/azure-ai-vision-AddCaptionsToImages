@@ -1,0 +1,57 @@
+Laboratório "Detect faces in image"
+O resultado obtido para a imagem_1 foi:
+Face #1
+Face mask: no
+
+Face #2
+Face mask: no
+
+Laboratório "Extract text from images"
+O resultado obtido para a imagem_2 foi:
+SOLUÇÕES
+SuporteAdministrativoemMeioAmbiente
+AtitudeeResultado
+Buscandosoluções
+paraoseu
+empreendimento.
+QUEMNÓSSOMOS?
+NOSSOSSERVIÇOS
+Somosumaempresahá14anosno
+mercado.
+LO,LP).
+Obtençãoerenovaçãodelicençasambientais(LI,
+Nossaequipeécompostapor
+profissionaisqualificados,com
+PlanodeAutomonitoramentodeEfluentesLíquidos
+amploconhecimentotécnico.
+(PAEL).
+Atuamosnainvestigaçãoesolução
+deproblemasambientais.
+Regularizaçãodeempreendimento.
+Caracterizaçãoemapeamentodoempreendimento.
+PORQUENOSESCOLHER?
+Nossaequipealtamentequalificada
+Planodegerenciamentoderesíduossólidos
+trabalharápararesolveroseuproblemade
+(PGRS).
+maneiraeficaz,combasenos14anosde
+experiência.Entreemcontatoconoscopara
+maisdetalhes.
+ElaboraçãodeRelatórioAmbientalSimplificado
+(RAS)eCadastroAmbientalRural(CAR).
+FALECONOSCO!
+ademirsolucoes@yahoo.com.br
+viniciusvrdsilva@gmail.com
+(11)99656-8944
+(11)97751-6837
+
+Laboratório "Add captions to images"
+Os resultados obtidos para imagem_3 e imagem_4 foram:
+imagem_3:
+A river with a bridge over it and a city in the background
+imagem_4:
+A body of water with a city in the background
+
+
+
+
